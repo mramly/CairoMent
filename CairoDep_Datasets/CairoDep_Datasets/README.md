@@ -1,10 +1,10 @@
 This dataset has been collected from all the resources :
-Nafsany (slang)
-Facebook pages (slang)
-Twitter API (slang)
-Dataworld (slang)
-SemEval (slang)
-Reddit (standard arabic)
+Nafsany (slang),
+Facebook pages (slang),
+Twitter API (slang),
+Dataworld (slang),
+SemEval (slang),
+Reddit (standard arabic),
 Crowdsourcing (slang) 
 
 The dataset contains:
