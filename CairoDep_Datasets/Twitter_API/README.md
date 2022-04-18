@@ -1,7 +1,7 @@
 The dataset has been collected by web scraping using:
-Twitter API
-Twitter developer account 
-Tweepy library 
+Twitter API,
+Twitter developer account,
+and Tweepy library 
 by searching for the keywords that indicate depression in tweets .
 
 The data contains:
